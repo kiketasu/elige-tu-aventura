@@ -2,9 +2,9 @@
 Esta web permite generar una aventura única a través de tus decisiones.
 
 Progreso:
-- Front-end:
-  🟥Estructura HTML y estilo
-  🟥Tutorial y hoja de personaje
-  🟥Prueba de aventura básica para probar funcionalidad
-- Back end:
+- Front-end:<br>
+  🟥Estructura HTML y estilo <br>
+  🟥Tutorial y hoja de personaje <br>
+  🟥Prueba de aventura básica para probar funcionalidad <br>
+- Back end:<br>
   🟥Implementación de IA para generar aventuras
